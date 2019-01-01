@@ -33,4 +33,5 @@ fi
 ---
 durumCLEski=$durumCL
 durumNLEski=$durumNL
+sleep 1
 done
